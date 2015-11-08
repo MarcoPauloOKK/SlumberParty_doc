@@ -1,0 +1,4 @@
+HELP <----
+	 precisso de uma explicacao como o bulluet spread ta funcinando
+
+seria posivel fazer um programinha de teste ?, so precisa ter cubo que atira um cubo e possa mudar a velocidade do cube e do tiro, talve almentar o bullet spread.
