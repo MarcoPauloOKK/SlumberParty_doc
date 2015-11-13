@@ -1,4 +1,16 @@
-HELP <----
-	 precisso de uma explicacao como o bulluet spread ta funcinando
+JOGO
 
-seria posivel fazer um programinha de teste ?, so precisa ter cubo que atira um cubo e possa mudar a velocidade do cube e do tiro, talve almentar o bullet spread.
+scroll do mapa
+controle
+colisao do player com o mapa
+
+musica
+efeitos sonoros
+
+inimigos com o tiled
+colisao do tiro com o inimigo
+
+tiro do inimigo + inteligencia
+vida do player
+vida do inimigo
+arma do inimigo girando
