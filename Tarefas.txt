@@ -1,16 +1,70 @@
-JOGO
+JOGO versão 0.1
 
-scroll do mapa
-controle
-colisao do player com o mapa
+=> Tarefa 1: Scroll do Mapa. (OK)
 
-musica
-efeitos sonoros
+	O código foi reestruturado para utilizar o posicionamento de mapa e câmera da própria LIBGDX.
 
-inimigos com o tiled
-colisao do tiro com o inimigo
+	Os cálculos de posicionamento passou a não ser feito por nós.
 
-tiro do inimigo + inteligencia
-vida do player
-vida do inimigo
-arma do inimigo girando
+=> Tarefa 2: Controle Xbox 360.
+
+	Foi programado um sample para controlar o jogo através do controle do Xbox 360.
+
+	A interface com o controle ainda precisa ser melhorada.
+
+	A fazer:
+
+		- Criar versão para MAC.
+		- Criar versão para Windows.
+
+=> Tarefa 3: Fazer colisão do player com o mapa. (OK)
+
+	Foi feita a colisão do player com o mapa, configurada através da ferramenta Tiled Map Editor.
+
+=> Tarefa 4: Colocar Músicas.
+
+	A fazer.
+
+=> Tarefa 5: Colocar Efeitos Sonoros.
+
+	A fazer.
+
+=> Tarefa 6: Desenhar inimigos com o tiled. (OK)
+
+	Os inimigos já estãosendo carregados pelo Tiled Map Editor.
+
+=> Tarefa 7: Fazer a colisão do tiro com o inimigo.
+
+	A fazer.
+
+=> Tarefa 8: Implementar a animação do inimigo.
+
+	A fazer.
+	
+=> Tarefa 9: Implementar a inteligência do inimigo.
+
+	A fazer.
+	
+=> Tarefa 10: Implementar a arma em modo multiplayer.
+
+	A fazer.
+	
+=> Tarefa 11: Implementar os tiros do inimigo.
+
+	A fazer.
+	
+=> Tarefa 12: Implementar a vida do player.
+
+	A fazer.
+	
+=> Tarefa 13: Implementar a vida do inimigo.
+
+	A fazer.
+	
+=> Tarefa 14: Implementar a arma do inimigo.
+
+	A fazer.
+
+=> Tarefa 15: Implementar interface do usuário.
+
+	A fazer.
