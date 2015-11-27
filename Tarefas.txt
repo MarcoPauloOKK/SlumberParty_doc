@@ -68,3 +68,11 @@ JOGO versão 0.1
 => Tarefa 15: Implementar interface do usuário.
 
 	A fazer.
+	
+=> Tarefa 16: Rotacionar o tiro.
+
+	A fazer.
+	
+=> Tarefa 17: Implementar a animação do dano.
+
+	A fazer.
