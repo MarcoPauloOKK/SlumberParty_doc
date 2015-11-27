@@ -76,3 +76,7 @@ JOGO versão 0.1
 => Tarefa 17: Implementar a animação do dano.
 
 	A fazer.
+	
+=> Tarefa 18: Arrumar o ponto de saída do novo tiro.
+
+	A fazer.
